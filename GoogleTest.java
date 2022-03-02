@@ -40,6 +40,6 @@ public class GoogleTest
 
 	@AfterMethod
 	public void CloseBrowser() {
-		driver.quit();
+		
 	}
 }
